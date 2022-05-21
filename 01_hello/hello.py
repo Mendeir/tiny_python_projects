@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-# Purpose: Say Hello
+"""
+    Author: MG <mg-git.plumbic@8shield.net>
+    Purpose: Say Hello
+"""
 
 import argparse
 
